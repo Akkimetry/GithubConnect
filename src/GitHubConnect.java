@@ -5,7 +5,11 @@ public class GitHubConnect {
         System.out.println("We did it.lol");
 
         System.out.println("Still with master branch");
+
+
         System.out.println("ヽ(^o^)ノ");
+
+        System.out.println("Good work!");
     }
     String newFile = "This is a new file.";
 
