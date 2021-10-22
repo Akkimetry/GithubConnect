@@ -5,6 +5,8 @@ public class GitHubConnect {
         System.out.println("We did it.lol");
 
         System.out.println("Audio feature");
+
+        System.out.println("Need to improve the audio quality.");
     }
     String newFile = "This is a new file.";
 
