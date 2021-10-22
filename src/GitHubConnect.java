@@ -3,6 +3,8 @@ public class GitHubConnect {
         String newFile = "This is a new file.";
 
         System.out.println(newFile+" to be saved in videofeature branch");
+
+        System.out.println("Need to improve the video quality");
     }
 
 
