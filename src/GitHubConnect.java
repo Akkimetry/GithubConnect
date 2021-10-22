@@ -1,17 +1,10 @@
 public class GitHubConnect {
     public static void main(String[] args) {
-        System.out.println("This change is done by Naman");
+        String newFile = "This is a new file.";
 
-        System.out.println("We did it.lol");
-
-        System.out.println("Still with master branch");
-
-
-        System.out.println("ヽ(^o^)ノ");
-
-        System.out.println("Good work!");
+        System.out.println(newFile+" to be saved in videofeature branch");
     }
-    String newFile = "This is a new file.";
+
 
 
 }
