@@ -10,6 +10,7 @@ public class GitHubConnect {
         System.out.println("ヽ(^o^)ノ");
 
         System.out.println("Good work!");
+        System.out.println("Just a warmup before class. * <");
     }
     String newFile = "This is a new file.";
 
