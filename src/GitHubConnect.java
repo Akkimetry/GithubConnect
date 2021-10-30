@@ -11,6 +11,8 @@ public class GitHubConnect {
 
         System.out.println("Good work!");
         System.out.println("Just a warmup before class. * <");
+
+        System.out.println("Demo practice: edited by Sri");
     }
     String newFile = "This is a new file.";
 
